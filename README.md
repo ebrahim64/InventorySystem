@@ -4,7 +4,7 @@
 
 ## About the project
 
-**Login Details**
+Login Details
 
 Username : admin
 Password : admin
